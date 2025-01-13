@@ -1,0 +1,12 @@
+numpy>=1.21.0
+requests>=2.28.0
+torch>=2.0.0
+torch-directml>=0.2.0
+matplotlib>=3.4.0
+plotly>=5.13.0
+scipy>=1.7.0
+tqdm>=4.65.0
+astropy>=5.0.0
+streamlit>=1.22.0
+pandas>=1.5.0
+scikit-learn>=1.0.0 
